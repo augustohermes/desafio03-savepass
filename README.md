@@ -19,18 +19,6 @@ Nesse desafio, você irá implementar uma aplicação de gerenciamento de sen
 
 Essa aplicação possui duas telas, sendo a primeira delas uma listagem das senhas salvas e a segunda a tela de cadastro de novos logins.
 
-Aqui você pode ver como ficará o aplicativo após todos os testes passarem: 
-
-<div align="left">
-  <img alt="Capa do desafio 2" width="90%" src="./.github/banner.png">
-</div>
-<div align="center">
-  <img alt="Capa do desafio 2" width="90%" src="./.github/banner.png">
-</div>
-<div align="right">
-  <img alt="Capa do desafio 2" width="90%" src="./.github/banner.png">
-</div>
-
 ## ⚙️ Instalação do projeto
 
 ## Clone este repositório e acesse o diretório
